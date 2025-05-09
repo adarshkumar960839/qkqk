@@ -12,7 +12,7 @@ CONFIG_FILE = 'config.json'
 MAX_DURATION = 240  # Max attack duration in seconds
 
 # === Bot Initialization ===
-bot = telebot.TeleBot(BOT_TOKEN)
+bot = telebot.TeleBot(7989600445:AAHsxQgOQ4jePe8-fYBn4jYP4zenBEAK6kE)
 
 # === Load / Save Config ===
 def load_config():
